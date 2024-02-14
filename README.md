@@ -6,7 +6,7 @@ I'm a **Fullstack Web Developer** with more than **4 years of experience** worki
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,mongodb,ts,nextjs,react,express,dotnet,materialui,tailwind,redux,nodejs)](https://skillicons.dev) 
 
 
-- 🔭 I’m currently working on a React+Vite+Typescript Chrome Extension. I'm the sole developer of the extension.
+- 🔭 I’m currently working on a React+Vite+Typescript AI Chrome Extension for Clinicians.
 - 🌱 I’m currently learning NextJS 14 and Dart/Flutter.
 - 📫 How to reach me: just email me @ **adnan13893@gmail.com** OR **danimalik13893@gmail.com**
 
