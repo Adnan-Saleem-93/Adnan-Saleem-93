@@ -7,6 +7,6 @@ I'm a **Fullstack Web Developer** with more than **4 years of experience** worki
 
 
 - 🔭 I’m currently working on a React+Vite+Typescript AI Chrome Extension for Clinicians.
-- 🌱 I’m currently learning NextJS 14 and Dart/Flutter.
+- 🌱 I’m currently learning NextJS 14 and ReactNative.
 - 📫 How to reach me: just email me @ **adnan13893@gmail.com** OR **danimalik13893@gmail.com**
 
