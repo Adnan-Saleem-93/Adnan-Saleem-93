@@ -7,6 +7,6 @@ I'm a **Fullstack (FE-Heavy) Web Developer** with more than **4 years of experie
 
 
 - 🔭 I’m currently working on a React+Vite+Typescript AI Chrome Extension and Web App for Doctors & Clinicians.
-- 🌱 I’m currently learning NextJS 14 and AWS.
+- 🌱 I’m currently learning React Native and AWS.
 - 📫 How to reach me: just email me @ **adnan13893@gmail.com** OR **danimalik13893@gmail.com**
 
