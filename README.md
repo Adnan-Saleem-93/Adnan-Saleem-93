@@ -5,8 +5,6 @@ I'm a **Fullstack (FE-Heavy) Web Developer** with more than **4 years of experie
 ### My Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,mongodb,ts,nextjs,react,express,dotnet,materialui,tailwind,redux,nodejs)](https://skillicons.dev) 
 
-
-- 🔭 I’m currently working on a React+Vite+Typescript AI Chrome Extension and Web App for Doctors & Clinicians.
-- 🌱 I’m currently learning React Native and AWS.
+- I’m currently learning React Native and AWS.
 - 📫 How to reach me: just email me @ **adnan13893@gmail.com** OR **danimalik13893@gmail.com**
 
