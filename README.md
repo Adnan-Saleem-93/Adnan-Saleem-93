@@ -6,5 +6,5 @@ I'm a **Fullstack (FE-Heavy) Web Developer** with more than **5 years of experie
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,mongodb,ts,nextjs,react,express,dotnet,materialui,tailwind,redux,nodejs)](https://skillicons.dev) 
 
 - I’m currently learning React Native and AWS.
-- 📫 How to reach me: just email me @ **adnan13893@gmail.com** OR **danimalik13893@gmail.com**
+- 📫 How to reach me: just email me @ **adnansaleem.dev@gmail.com** OR **adnan13893@gmail.com**
 
