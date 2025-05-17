@@ -1,6 +1,6 @@
 ### Hi there 👋
 # I'm Adnan Saleem.
-I'm a **Fullstack (FE-Heavy) Web Developer** with more than **4 years of experience** working in different companies on real world projects. I have worked on multiple web technologies and frameworks. I have keen interest in Mobile App Development and plan on being a full-time Mobile App Developer.
+I'm a **Fullstack (FE-Heavy) Web Developer** with more than **5 years of experience** working in different companies on real world projects. I have worked on multiple web technologies and frameworks. I have keen interest in Mobile App Development and plan on being a full-time Mobile App Developer.
 
 ### My Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,mongodb,ts,nextjs,react,express,dotnet,materialui,tailwind,redux,nodejs)](https://skillicons.dev) 
