@@ -6,6 +6,6 @@ I'm a **Fullstack (FE-Heavy) Web Developer** with **6 years of experience** work
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,mongodb,ts,nextjs,react,express,dotnet,materialui,tailwind,redux,nodejs,jest,jquery,python,vite,git,github,npm,notion,prisma,bootstrap,graphql)](https://skillicons.dev) 
 
 - I have some experience with AWS as well.
-- I’m currently learning **Docker** and **GraphQL**.
+- I’m currently learning **Docker** and **Swift**.
 - 📫 How to reach me: just email me @ **adnan.dm@proton.me** OR **adnan13893@gmail.com**
 
