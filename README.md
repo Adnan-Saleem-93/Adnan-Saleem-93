@@ -7,5 +7,5 @@ I'm a **Fullstack (FE-Heavy) Web Developer** with **6 years of experience** work
 
 - I have some experience with AWS as well.
 - I’m currently learning **Docker** and **Swift**.
-- 📫 How to reach me: just email me @ **adnan.dm@proton.me** OR **adnan13893@gmail.com**
+- 📫 How to reach me: just email me @ **adnan.dm@proton.me** OR **adnansaleem-dm@tutamail.com**
 
